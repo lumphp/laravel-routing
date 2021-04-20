@@ -1,5 +1,5 @@
 {
-    "name": "illuminate/routing",
+    "name": "lumphp/laravel-routing",
     "description": "The Illuminate Routing package.",
     "license": "MIT",
     "homepage": "https://laravel.com",
