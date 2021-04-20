@@ -21,7 +21,7 @@
         "lumphp/laravel-contracts": "^8.0",
         "lumphp/laravel-http": "^8.0",
         "illuminate/macroable": "^8.0",
-        "lumphp/pipeline": "^8.0",
+        "lumphp/laravel-pipeline": "^8.0",
         "lumphp/laravel-support": "^8.0",
         "symfony/http-foundation": "^5.1.4",
         "symfony/http-kernel": "^5.1.4",
